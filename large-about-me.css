@@ -11,7 +11,7 @@ body {
 p.name{		
 		color: white;
 		font-size: 60px;
-		line-height: 1.2
+		line-height: 1.2;
 		font-family: 'Helvetica';
 		font-weight: 400;
 
@@ -19,8 +19,15 @@ p.name{
 
 p.intro {
 		color: white;
-		font-size: 25px;
+		font-size: 20px;
 		line-height: 1.5;
+		font-family: 'Helvetica';
+}
+
+p.maininfo {
+		color: white;
+		font-size: 20px;
+		line-height: 1.2;
 		font-family: 'Helvetica';
 }
 
@@ -31,7 +38,7 @@ div.leftbox {
         padding: 15px 15px 15px 15px;
         width: 500px;
         height: auto;
-        border:2px solid white;
+        /*border:2px solid white;*/
 		float:left;	
 }
 
@@ -40,8 +47,8 @@ div.rightbox {
         margin-left:25px;
         margin-top: 50px;
         padding: 15px 15px 15px 15px;
-        width: 500px;
-        border:2px solid white;
+        width: 300px;
+        /*border:2px solid white;*/
 		float:right;	
 }
 
