@@ -44,6 +44,9 @@ div.leftbox {
 
 div.rightbox {
 	    display: block;
+	    background:rgb(190,190,190);
+	    opacity: 0.5;
+	    border-radius:20px ;
         margin-left:25px;
         margin-top: 50px;
         padding: 15px 15px 15px 15px;
@@ -52,14 +55,17 @@ div.rightbox {
 		float:right;	
 }
 
+.button {
+	    height:50px;
+    	width:120px;
+   	 	border-color:#6495ED;
+   	 	background-color:#BCD2EE;
+    	border-style: solid;
+    	border-width: 2px;
+    	border-radius:5px;
+    	margin:auto;
+    	text-align:center;
+}
+
 	
-  /* Set up proportionate scaling */
-  /*width: 100%;
-  height: auto;
-*/	
-  /* Set up positioning */
-  /*position: fixed;
-  top: 0;
-  left: 0;*?
-}
-}
+ 
