@@ -1,0 +1,58 @@
+
+body {
+	    background-color: red;
+		background-image: url("./images/Photo_ofme.jpg");
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-width:100%;
+}
+
+p.name{		
+		color: white;
+		font-size: 60px;
+		line-height: 1.2
+		font-family: 'Helvetica';
+		font-weight: 400;
+
+}
+
+p.intro {
+		color: white;
+		font-size: 25px;
+		line-height: 1.5;
+		font-family: 'Helvetica';
+}
+
+div.leftbox {
+	    display: block;
+        margin-left:25px;
+        margin-top: 50px;
+        padding: 15px 15px 15px 15px;
+        width: 500px;
+        height: auto;
+        border:2px solid white;
+		float:left;	
+}
+
+div.rightbox {
+	    display: block;
+        margin-left:25px;
+        margin-top: 50px;
+        padding: 15px 15px 15px 15px;
+        width: 500px;
+        border:2px solid white;
+		float:right;	
+}
+
+	
+  /* Set up proportionate scaling */
+  /*width: 100%;
+  height: auto;
+*/	
+  /* Set up positioning */
+  /*position: fixed;
+  top: 0;
+  left: 0;*?
+}
+}
