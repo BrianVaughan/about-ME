@@ -12,7 +12,7 @@ p.name{
 		color: black;
 		font-size: 60px;
 		line-height: 1.2;
-		font-family: 'Helvetica';
+		font-family: 'Courgette',Arial, serif; 
 		font-weight: 600;
 
 }
@@ -21,7 +21,7 @@ p.intro {
 		color: black;
 		font-size: 20px;
 		line-height: 1.5;
-		font-family: 'Helvetica';
+		font-family: 'Courgette', Arial, serif;
 		font-weight: 500;
 }
 
@@ -29,7 +29,7 @@ p.maininfo {
 		color:  black;
 		font-size: 20px;
 		line-height: 1.2;
-		font-family: 'Helvetica';
+		font-family: 'Courgette', Arial, serif; 
 		font-weight: 500;
 }
 
