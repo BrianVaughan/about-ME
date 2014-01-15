@@ -1,0 +1,71 @@
+ody {
+	    background:rgb(155,185,207);
+	    background-color: url(noisesetexture.png),-webkit-linear-gradient(green,white) no-repeat, #283138;
+	    background-color: url(noisesetexture.png),-moz-linear-gradient(green,white) no-repeat, #283138;  	   
+	    background-color: url(noisesetexture.png),-o-linear-gradient(green,white) no-repeat, #283138;
+	    background-color: url(noisesetexture.png),-ms-linear-gradient(green,white) no-repeat, #283138;
+	    background-color: url(noisesetexture.png),linear-gradient(green,white) no-repeat, #283138;
+	    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='green',EndColorStr='white');
+	    background-repeat: no-repeat;
+		background-image: url("https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash2/465215_638452656168884_540067937_o.jpg");
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-width:100%;
+}
+
+p.name{		
+		color: white;
+		font-size: 40px;
+		line-height: 1.2;
+		font-family: Arial, serif; 
+		font-weight: 600;
+
+}
+
+p.intro {
+		color: white;
+		font-size: 20px;
+		line-height: 1.5;
+		font-family: Arial, serif;
+		font-weight: 500;
+}
+
+p.maininfo {
+		color:  white;
+		font-size: 20px;
+		line-height: 1.2;
+		font-family: Arial, serif; 
+		font-weight: 500;
+}
+
+
+div.rightbox {
+	    display: block;
+	/*    background:rgb(235,241,245);*/
+		background:rgb(0,0,0);
+	    opacity: 0.1;
+	    border-radius:20px ;
+        margin-left:10px;
+ 		margin-right:10px;
+        margin-top: 25px;
+        padding: 0px 15px 15px 15px;
+        width: 220px;
+        /*border:2px solid white;*/
+		float:right;	
+}
+
+.button {
+	    height:50px;
+    	width:120px;
+   	 	border-color:#6495ED;
+   	 	background-color:#BCD2EE;
+    	border-style: solid;
+    	border-width: 2px;
+    	border-radius:5px;
+    	margin:auto;
+    	text-align:center;
+}
+
+	
+ 
