@@ -52,9 +52,9 @@ div.rightbox {
 	    /*opacity: 0.7;*/
 	    border-radius:20px ;
         margin-left:75px;
-        margin-top: 10px;
+        margin-top: 25px;
         padding: 0px 15px 15px 15px;
-        width: 320px;
+        width: 400px;
         /*border:2px solid white;*/
 		float:left;	
 }
